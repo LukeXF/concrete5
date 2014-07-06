@@ -1,3 +1,5 @@
+####I suggested a composer upload. [Here](https://github.com/concrete5/concrete5/pull/1804)
+
 [![Build Status](https://travis-ci.org/concrete5/concrete5.png?branch=master)](https://travis-ci.org/concrete5/concrete5)
 
 
